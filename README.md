@@ -4,7 +4,7 @@ if you are into cyling,
 
 
 # Tasks
-- [ ] User Story #1: My portfolio should have a welcome section with an id of welcome-section.
+- [x] User Story #1: My portfolio should have a welcome section with an id of welcome-section.
 
 - [ ] User Story #2: The welcome section should have an h1 element that contains text.
 
