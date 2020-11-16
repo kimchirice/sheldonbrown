@@ -7,7 +7,7 @@ const Home = () => {
       <h2>Home page</h2>
       <div className="">
         <div id="img-div">
-          <img src="../../sb-small-wheel.jpg" id="image" alt="sheldon brown" />
+          <img src="../../../sb-small-wheel.jpg" id="image" alt="sheldon brown" />
           <caption id="img-caption">Mr. Sheldon Brown on his favorite samll wheels</caption>
         
         </div>
