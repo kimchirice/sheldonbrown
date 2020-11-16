@@ -1,0 +1,37 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  width: 100%;
+  background-color: rgb(255, 68, 0);
+  color: azure;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+
+nav li {
+  list-style-type: none;
+  padding-right: 2px;
+
+}
+
+nav li:hover {
+  background-color: teal;
+  text-decoration: yellowgreen;
+}
+
+div.img-logo {
+  
+  width: fit-content;
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
