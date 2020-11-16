@@ -1,5 +1,8 @@
 #img-div {
   display: grid;
   place-items: center;
+}
+
+#image {
   max-width: 640px;
 }
